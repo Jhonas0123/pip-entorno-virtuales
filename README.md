@@ -1,5 +1,3 @@
-# Curso de _GIT_ & _GIT_HUB_
+# Steps
 
-Hola mi nombre es Jhonatan y soy nuevo en esto
-
-agregando mas contenido al _README.md_
+## Realizando el curso de python y entornos virtuales
