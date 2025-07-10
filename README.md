@@ -1,3 +1,8 @@
 # Steps
 
-## Realizando el curso de python y entornos virtuales
+### para correr el programa seguir las siguientes instrucciones
+```sh
+cd juego
+python3 rock_paper_scissors.py 
+```
+
